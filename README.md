@@ -10,7 +10,7 @@ This is a static landing page of nike shoe brand bulit to practice my tailwind c
 
 ## Live Website Link
 
-(https://nike-home-page.netlify.app/)
+https://nike-home-page.netlify.app/
 
 ## Screenshots
 
